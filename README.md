@@ -1,6 +1,7 @@
-# Project Title
- 
-Optimizing Public Transportation Flow and Reducing Congestion with AI
+# Optimizing Public Transportation Flow AI
+
+Building AI course project
+
 
 ## Summary
 
