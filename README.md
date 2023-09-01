@@ -15,7 +15,7 @@ Our project aims to enhance the efficiency of public transportation systems, suc
 **Motivation**:
 Our motivation stems from the desire to create smarter and more user-friendly public transportation systems. We aim to address the challenges of overcrowding and inefficiency, which are prevalent in many urban areas worldwide.
 
-## How is it Used?
+## how is it Used?
 
 **Usage**:
 - Commuters will access our AI-powered platform via a mobile app or website to receive real-time route recommendations and station congestion alerts.
